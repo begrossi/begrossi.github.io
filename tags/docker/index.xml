@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>docker - Tag - Bruno E. Grossi</title>
+        <link>https://brunogrossi.com/tags/docker/</link>
+        <description>docker - Tag - Bruno E. Grossi</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 May 2019 14:07:34 -0300</lastBuildDate><atom:link href="https://brunogrossi.com/tags/docker/" rel="self" type="application/rss+xml" /><item>
+    <title>Using Docker on Windows 10 Home Edition</title>
+    <link>https://brunogrossi.com/tech/using-docker-on-windows-10-home-edition/</link>
+    <pubDate>Fri, 03 May 2019 14:07:34 -0300</pubDate>
+    <author>Author</author>
+    <guid>https://brunogrossi.com/tech/using-docker-on-windows-10-home-edition/</guid>
+    <description><![CDATA[I like Linux. And I used it for many years. But now, I need to use some software that does not support Linux. So, I’m using Windows 10 here. And it is a Windows 10 Home Edition. Docker does not support it on its official release. So, you need to get the legacy Docker Toolbox.
+But, why the native version does not work? A Docker container should be isolated from all other machine resources not granted by the user.]]></description>
+</item></channel>
+</rss>
