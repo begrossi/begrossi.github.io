@@ -72,5 +72,6 @@ Now, at Ci&T, I’m back to **Java** programming after a long time. A lot has ch
 
 What to learn now? What should be my next programming language? **Rust** and **Go** are my favorite candidates, but **Kotlin** is in on the road. Which one do you suggest to me?
 
-*Originally published at [https://brunogrossi.com](https://brunogrossi.com/tech/polyglot-me/) on September 1, 2020.*
+> Update on 2021-07-08: I’m working with Go since Feb 2021, creating a completely new framework to develop new microservices at Banco Inter, and I’m loving it… Go is an incredibly easy and performant language. Although it lacks some features (like generics), it’s evolving fastly (generics will be available on Go 1.18!).
+
 
