@@ -31,7 +31,7 @@ But, why the native version does not work? A Docker container should be isolated
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/brunogrossi.com\/tech\/using-docker-on-windows-10-home-edition\/"
-        },"genre": "posts","keywords": "docker, windows","wordcount":  411 ,
+        },"genre": "posts","keywords": "docker, windows","wordcount":  418 ,
         "url": "https:\/\/brunogrossi.com\/tech\/using-docker-on-windows-10-home-edition\/","datePublished": "2019-05-03T14:07:34-03:00","dateModified": "2019-05-03T14:07:34-03:00","publisher": {
             "@type": "Organization",
             "name": ""},"author": {
@@ -108,7 +108,7 @@ But, why the native version does not work? A Docker container should be isolated
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animated flipInX">Using Docker on Windows 10 Home Edition</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="/" title="Author" rel=" author" class="author"><i class="fas fa-user-circle fa-fw"></i>Bruno E. Grossi</a></span>&nbsp;<span class="post-category">included in <a href="/categories/tech/"><i class="far fa-folder fa-fw"></i>tech</a></span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2019-05-03">2019-05-03</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;411 words&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime="2019-05-03">2019-05-03</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;418 words&nbsp;
                 <i class="far fa-clock fa-fw"></i>&nbsp;2 minutes&nbsp;</div>
         </div><div class="details toc" id="toc-static"  kept="true">
                 <div class="details-summary toc-title">
@@ -133,24 +133,16 @@ But, why the native version does not work? A Docker container should be isolated
 <p><img
         class="lazyload"
         src="/svg/loading.min.svg"
-        data-src="https://cdn-images-1.medium.com/max/2000/0*z0ZutrKjdQMmwz4b"
-        data-srcset="https://cdn-images-1.medium.com/max/2000/0*z0ZutrKjdQMmwz4b, https://cdn-images-1.medium.com/max/2000/0*z0ZutrKjdQMmwz4b 1.5x, https://cdn-images-1.medium.com/max/2000/0*z0ZutrKjdQMmwz4b 2x"
+        data-src="/images/using-docker-on-windows-10-home-edition/image1.png"
+        data-srcset="/images/using-docker-on-windows-10-home-edition/image1.png, /images/using-docker-on-windows-10-home-edition/image1.png 1.5x, /images/using-docker-on-windows-10-home-edition/image1.png 2x"
         data-sizes="auto"
-        alt="https://cdn-images-1.medium.com/max/2000/0*z0ZutrKjdQMmwz4b"
-        title="https://cdn-images-1.medium.com/max/2000/0*z0ZutrKjdQMmwz4b" /></p>
-<p><img
-        class="lazyload"
-        src="/svg/loading.min.svg"
-        data-src="https://cdn-images-1.medium.com/max/2000/0*xLY8mhIeXQyeQZ09"
-        data-srcset="https://cdn-images-1.medium.com/max/2000/0*xLY8mhIeXQyeQZ09, https://cdn-images-1.medium.com/max/2000/0*xLY8mhIeXQyeQZ09 1.5x, https://cdn-images-1.medium.com/max/2000/0*xLY8mhIeXQyeQZ09 2x"
-        data-sizes="auto"
-        alt="https://cdn-images-1.medium.com/max/2000/0*xLY8mhIeXQyeQZ09"
-        title="https://cdn-images-1.medium.com/max/2000/0*xLY8mhIeXQyeQZ09" /></p>
+        alt="/images/using-docker-on-windows-10-home-edition/image1.png"
+        title="/images/using-docker-on-windows-10-home-edition/image1.png" /></p>
 <h2 id="explaining-the-trick">Explaining the trick</h2>
 <p>The <strong>trick</strong> here is that Docker is separated into two parts. A docker client and an engine daemon. So, Toolbox uses a tool, called <a href="https://docs.docker.com/v17.09/machine/overview/" target="_blank" rel="noopener noreffer">docker-machine</a> to create a Linux virtual machine and run a Docker Engine inside it. It’s not a native solution but works very well. The Docker client may be used to control not only a local docker but a remote one too. So, we only need this windows client (included on toolbox) and point it to our virtual server. This can be done settings some environment variables, and the command docker-machine.exe env teaches you how to do this. I will talk about docker-machine utility in another post.</p>
 <p>But, to be more productive, Toolbox comes with a utility shell script that checks it docker’s VM machine is running and starts it if not. It’s used through the Docker Quickstart Terminal link created on Windows' Start Menu. This link simply call a git&rsquo;s bash.exe (or some other Linux terminal ported to windows) and execute a start.sh (you can see it <a href="https://github.com/docker/toolbox/blob/master/windows/start.sh" target="_blank" rel="noopener noreffer">here</a>).</p>
 <p><em>Do you know best practices and more information about running Docker on Windows Home edition? Share it on comments!</em></p>
-<p><em>Also published at <a href="https://medium.com/@begrossi/using-docker-on-windows-10-home-edition-6423ee8c5fcc" target="_blank" rel="noopener noreffer">medium.com</a> on May 3, 2019.</em></p>
+<p><em>Also published at <a href="https://medium.com/@begrossi/using-docker-on-windows-10-home-edition-6423ee8c5fcc" target="_blank" rel="noopener noreffer">medium.com</a> on May 3, 2019 and at <a href="https://dev.to/begrossi/using-docker-on-a-windows-10-home-edition-2k08" target="_blank" rel="noopener noreffer">dev.to</a> on Jan 5, 2020.</em></p>
 </div><div class="post-footer" id="post-footer">
     <div class="post-info">
         <div class="post-info-line">
