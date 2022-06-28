@@ -14,9 +14,7 @@ To run Docker “natively” on Windows, they don’t have namespaces and contro
 
 Docker Toolbox is a solution that uses Oracle’s **VirtualBox** Headless mode to run Docker on a Linux virtual container.
 
-![](https://cdn-images-1.medium.com/max/2000/0*z0ZutrKjdQMmwz4b)
-
-![](https://cdn-images-1.medium.com/max/2000/0*xLY8mhIeXQyeQZ09)
+![](/images/using-docker-on-windows-10-home-edition/image1.png)
 
 ## Explaining the trick
 
@@ -26,5 +24,5 @@ But, to be more productive, Toolbox comes with a utility shell script that check
 
 *Do you know best practices and more information about running Docker on Windows Home edition? Share it on comments!*
 
-*Also published at [medium.com](https://medium.com/@begrossi/using-docker-on-windows-10-home-edition-6423ee8c5fcc) on May 3, 2019.*
+*Also published at [medium.com](https://medium.com/@begrossi/using-docker-on-windows-10-home-edition-6423ee8c5fcc) on May 3, 2019 and at [dev.to](https://dev.to/begrossi/using-docker-on-a-windows-10-home-edition-2k08) on Jan 5, 2020.*
 

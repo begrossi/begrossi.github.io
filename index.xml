@@ -1,73 +1,73 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Bruno E. Grossi</title>
-        <link>https://begrossi.github.io/</link>
+        <link>https://brunogrossi.com/</link>
         <description>$ grep -rni &#34;Ideas &amp; Experiments&#34; .</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 28 Apr 2022 21:00:00 -0300</lastBuildDate>
-            <atom:link href="https://begrossi.github.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://brunogrossi.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Cripto e eu: os desafios de alguém que não acredita em milagres</title>
-    <link>https://begrossi.github.io/crypto/br/crypto-and-me/</link>
+    <link>https://brunogrossi.com/crypto/br/crypto-and-me/</link>
     <pubDate>Thu, 28 Apr 2022 21:00:00 -0300</pubDate>
     <author>Author</author>
-    <guid>https://begrossi.github.io/crypto/br/crypto-and-me/</guid>
+    <guid>https://brunogrossi.com/crypto/br/crypto-and-me/</guid>
     <description><![CDATA[Cripto e eu: os desafios de alguém que não acredita em milagres A tecnologia da Blockchain vem mudando o mundo. Se você ainda não percebeu isso, em breve perceberá. A blockchain é a tecnologia base das criptomoedas, sendo o Bitcoin a maior e mais conhecida delas. Porém, blockchain tem milhares de outras utilidades, que pretendo falar em outros artigos. Mas aqui quero relatar um pouco sobre a minha relação com as cryptos.]]></description>
 </item><item>
     <title>Cripto em bom Português: Bitcoin</title>
-    <link>https://begrossi.github.io/crypto/br/definitions/bitcoin/</link>
+    <link>https://brunogrossi.com/crypto/br/definitions/bitcoin/</link>
     <pubDate>Wed, 27 Apr 2022 21:00:00 -0300</pubDate>
     <author>Author</author>
-    <guid>https://begrossi.github.io/crypto/br/definitions/bitcoin/</guid>
+    <guid>https://brunogrossi.com/crypto/br/definitions/bitcoin/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Cripto em bom Português: Blockchain</title>
-    <link>https://begrossi.github.io/crypto/br/definitions/blockchains/</link>
+    <link>https://brunogrossi.com/crypto/br/definitions/blockchains/</link>
     <pubDate>Wed, 27 Apr 2022 21:00:00 -0300</pubDate>
     <author>Author</author>
-    <guid>https://begrossi.github.io/crypto/br/definitions/blockchains/</guid>
+    <guid>https://brunogrossi.com/crypto/br/definitions/blockchains/</guid>
     <description><![CDATA[Cripto em bom Português: Blockchain ]]></description>
 </item><item>
     <title>Cripto em bom Português: Criptografia</title>
-    <link>https://begrossi.github.io/crypto/br/definitions/criptografia/</link>
+    <link>https://brunogrossi.com/crypto/br/definitions/criptografia/</link>
     <pubDate>Wed, 27 Apr 2022 21:00:00 -0300</pubDate>
     <author>Author</author>
-    <guid>https://begrossi.github.io/crypto/br/definitions/criptografia/</guid>
+    <guid>https://brunogrossi.com/crypto/br/definitions/criptografia/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Cripto em bom Português: Criptomoeda</title>
-    <link>https://begrossi.github.io/crypto/br/definitions/criptomoeda/</link>
+    <link>https://brunogrossi.com/crypto/br/definitions/criptomoeda/</link>
     <pubDate>Wed, 27 Apr 2022 21:00:00 -0300</pubDate>
     <author>Author</author>
-    <guid>https://begrossi.github.io/crypto/br/definitions/criptomoeda/</guid>
+    <guid>https://brunogrossi.com/crypto/br/definitions/criptomoeda/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Cripto em bom Português: Satoshi Nakamoto</title>
-    <link>https://begrossi.github.io/crypto/br/definitions/satoshi-nakamoto/</link>
+    <link>https://brunogrossi.com/crypto/br/definitions/satoshi-nakamoto/</link>
     <pubDate>Wed, 27 Apr 2022 21:00:00 -0300</pubDate>
     <author>Author</author>
-    <guid>https://begrossi.github.io/crypto/br/definitions/satoshi-nakamoto/</guid>
+    <guid>https://brunogrossi.com/crypto/br/definitions/satoshi-nakamoto/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Cripto em bom Português: Definições importantes</title>
-    <link>https://begrossi.github.io/crypto/br/definitions/</link>
+    <link>https://brunogrossi.com/crypto/br/definitions/</link>
     <pubDate>Tue, 08 Feb 2022 21:00:00 -0300</pubDate>
     <author>Author</author>
-    <guid>https://begrossi.github.io/crypto/br/definitions/</guid>
+    <guid>https://brunogrossi.com/crypto/br/definitions/</guid>
     <description><![CDATA[Cripto em bom Português: Definições importantes  Criptomoeda Criptografia BTC Ethereum  ETH2.0   Wallet Blockchain  PoW Testnet   Exchange  DEX CEX   Smart Contract NFT Web3 Token Bridge DAO  ]]></description>
 </item><item>
     <title>Poliglot, Me?</title>
-    <link>https://begrossi.github.io/tech/polyglot-me/</link>
+    <link>https://brunogrossi.com/tech/polyglot-me/</link>
     <pubDate>Mon, 31 Aug 2020 21:06:43 -0300</pubDate>
     <author>Author</author>
-    <guid>https://begrossi.github.io/tech/polyglot-me/</guid>
+    <guid>https://brunogrossi.com/tech/polyglot-me/</guid>
     <description><![CDATA[Polyglot, me? — Bruno E. Grossi I’m studying English again but serious now.
 Although I studied English when was young and have already worked with teams abroad, my current job as a Software Architect at Ci&amp;T is the first one where I really need English. And the company is actually helping me intending to be fluent in English. But I need to confess: it’s a painful process for me, as I don’t like English.]]></description>
 </item><item>
     <title>Using Docker on Windows 10 Home Edition</title>
-    <link>https://begrossi.github.io/tech/using-docker-on-windows-10-home-edition/</link>
+    <link>https://brunogrossi.com/tech/using-docker-on-windows-10-home-edition/</link>
     <pubDate>Fri, 03 May 2019 14:07:34 -0300</pubDate>
     <author>Author</author>
-    <guid>https://begrossi.github.io/tech/using-docker-on-windows-10-home-edition/</guid>
+    <guid>https://brunogrossi.com/tech/using-docker-on-windows-10-home-edition/</guid>
     <description><![CDATA[I like Linux. And I used it for many years. But now, I need to use some software that does not support Linux. So, I’m using Windows 10 here. And it is a Windows 10 Home Edition. Docker does not support it on its official release. So, you need to get the legacy Docker Toolbox.
 But, why the native version does not work? A Docker container should be isolated from all other machine resources not granted by the user.]]></description>
 </item></channel>
