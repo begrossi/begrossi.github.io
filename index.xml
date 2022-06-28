@@ -3,9 +3,58 @@
         <title>Bruno E. Grossi</title>
         <link>https://begrossi.github.io/</link>
         <description>$ grep -rni &#34;Ideas &amp; Experiments&#34; .</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 31 Aug 2020 21:06:43 -0300</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 28 Apr 2022 21:00:00 -0300</lastBuildDate>
             <atom:link href="https://begrossi.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Cripto e eu: os desafios de alguém que não acredita em milagres</title>
+    <link>https://begrossi.github.io/crypto/br/crypto-and-me/</link>
+    <pubDate>Thu, 28 Apr 2022 21:00:00 -0300</pubDate>
+    <author>Author</author>
+    <guid>https://begrossi.github.io/crypto/br/crypto-and-me/</guid>
+    <description><![CDATA[Cripto e eu: os desafios de alguém que não acredita em milagres A tecnologia da Blockchain vem mudando o mundo. Se você ainda não percebeu isso, em breve perceberá. A blockchain é a tecnologia base das criptomoedas, sendo o Bitcoin a maior e mais conhecida delas. Porém, blockchain tem milhares de outras utilidades, que pretendo falar em outros artigos. Mas aqui quero relatar um pouco sobre a minha relação com as cryptos.]]></description>
+</item><item>
+    <title>Cripto em bom Português: Bitcoin</title>
+    <link>https://begrossi.github.io/crypto/br/definitions/bitcoin/</link>
+    <pubDate>Wed, 27 Apr 2022 21:00:00 -0300</pubDate>
+    <author>Author</author>
+    <guid>https://begrossi.github.io/crypto/br/definitions/bitcoin/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Cripto em bom Português: Blockchain</title>
+    <link>https://begrossi.github.io/crypto/br/definitions/blockchains/</link>
+    <pubDate>Wed, 27 Apr 2022 21:00:00 -0300</pubDate>
+    <author>Author</author>
+    <guid>https://begrossi.github.io/crypto/br/definitions/blockchains/</guid>
+    <description><![CDATA[Cripto em bom Português: Blockchain ]]></description>
+</item><item>
+    <title>Cripto em bom Português: Criptografia</title>
+    <link>https://begrossi.github.io/crypto/br/definitions/criptografia/</link>
+    <pubDate>Wed, 27 Apr 2022 21:00:00 -0300</pubDate>
+    <author>Author</author>
+    <guid>https://begrossi.github.io/crypto/br/definitions/criptografia/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Cripto em bom Português: Criptomoeda</title>
+    <link>https://begrossi.github.io/crypto/br/definitions/criptomoeda/</link>
+    <pubDate>Wed, 27 Apr 2022 21:00:00 -0300</pubDate>
+    <author>Author</author>
+    <guid>https://begrossi.github.io/crypto/br/definitions/criptomoeda/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Cripto em bom Português: Satoshi Nakamoto</title>
+    <link>https://begrossi.github.io/crypto/br/definitions/satoshi-nakamoto/</link>
+    <pubDate>Wed, 27 Apr 2022 21:00:00 -0300</pubDate>
+    <author>Author</author>
+    <guid>https://begrossi.github.io/crypto/br/definitions/satoshi-nakamoto/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Cripto em bom Português: Definições importantes</title>
+    <link>https://begrossi.github.io/crypto/br/definitions/</link>
+    <pubDate>Tue, 08 Feb 2022 21:00:00 -0300</pubDate>
+    <author>Author</author>
+    <guid>https://begrossi.github.io/crypto/br/definitions/</guid>
+    <description><![CDATA[Cripto em bom Português: Definições importantes  Criptomoeda Criptografia BTC Ethereum  ETH2.0   Wallet Blockchain  PoW Testnet   Exchange  DEX CEX   Smart Contract NFT Web3 Token Bridge DAO  ]]></description>
+</item><item>
     <title>Poliglot, Me?</title>
     <link>https://begrossi.github.io/tech/polyglot-me/</link>
     <pubDate>Mon, 31 Aug 2020 21:06:43 -0300</pubDate>
