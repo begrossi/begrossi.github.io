@@ -2,7 +2,7 @@
     <channel>
         <title>Bruno E. Grossi</title>
         <link>https://brunogrossi.com/</link>
-        <description>$ grep -rni &#34;Ideas &amp; Experiments&#34; .</description>
+        <description>Head of Emerging Technologies and Digital Assets @ Inter</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language>
             <atom:link href="https://brunogrossi.com/index.xml" rel="self" type="application/rss+xml" />
         </channel>
