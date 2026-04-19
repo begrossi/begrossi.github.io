@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tokenization-threat/</loc>
+    <loc>https://brunogrossi.com/tokenization-threat/</loc>
     <lastmod>2025-03-01T00:00:00-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://brunogrossi.com/</loc>
     <lastmod>2025-03-01T00:00:00-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/perspectives/</loc>
+    <loc>https://brunogrossi.com/perspectives/</loc>
     <lastmod>2025-03-01T00:00:00-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/post-quantum-cbdc/</loc>
+    <loc>https://brunogrossi.com/post-quantum-cbdc/</loc>
     <lastmod>2024-08-01T00:00:00-03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://brunogrossi.com/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://brunogrossi.com/posts/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://brunogrossi.com/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/work/</loc>
+    <loc>https://brunogrossi.com/work/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
