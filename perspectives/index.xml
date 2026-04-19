@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Bruno Grossi</title>
-    <link>https://brunogrossi.com/</link>
-    <description>Recent content on Bruno Grossi</description>
+    <title>Perspectives on Bruno Grossi</title>
+    <link>https://brunogrossi.com/perspectives/</link>
+    <description>Recent content in Perspectives on Bruno Grossi</description>
     <image>
       <title>Bruno Grossi</title>
       <url>https://brunogrossi.com/images/avatar2.jpg</url>
@@ -12,7 +12,7 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Mar 2025 00:00:00 -0300</lastBuildDate>
-    <atom:link href="https://brunogrossi.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brunogrossi.com/perspectives/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Banks Won&#39;t Be Disrupted by Crypto. They&#39;ll Be Disrupted by Banks That Tokenized.</title>
       <link>https://brunogrossi.com/tokenization-threat/</link>
@@ -26,13 +26,6 @@
       <pubDate>Thu, 01 Aug 2024 00:00:00 -0300</pubDate>
       <guid>https://brunogrossi.com/post-quantum-cbdc/</guid>
       <description>Post-quantum cryptography isn&amp;#39;t a future problem. It&amp;#39;s a design decision being made right now — and most CBDC programs are getting it wrong.</description>
-    </item>
-    <item>
-      <title>Work</title>
-      <link>https://brunogrossi.com/work/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://brunogrossi.com/work/</guid>
-      <description>Professional record — Bruno Grossi</description>
     </item>
   </channel>
 </rss>
