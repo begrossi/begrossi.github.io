@@ -43,7 +43,8 @@ const credentials = [
   { label: "Graduate", value: "Cinema and Audiovisual, UNA" },
   { label: "Experience", value: "25+ years in technology" },
   { label: "Focus", value: "Digital Assets · CBDCs · AI · Quantum Computing" },
-  { label: "Location", value: "São Paulo, Brazil" },
+  { label: "Location", value: "Belo Horizonte, MG, Brazil" },
+  { label: "Contact", value: "linkedin.com/in/bruno-grossi" },
 ];
 
 export default function About() {
@@ -134,7 +135,11 @@ export default function About() {
                 <span className="font-mono w-28 shrink-0 pt-px" style={{ color: "var(--fg-3)" }}>
                   {label}
                 </span>
-                <span style={{ color: "var(--fg)" }}>{value}</span>
+                {label === "Contact" ? (
+                  <a href="https://linkedin.com/in/bruno-grossi" target="_blank" rel="noopener noreferrer" className="hover:text-[var(--accent)] transition-colors" style={{ color: "var(--fg)" }}>{value} ↗</a>
+                ) : (
+                  <span style={{ color: "var(--fg)" }}>{value}</span>
+                )}
               </div>
             ))}
           </div>
