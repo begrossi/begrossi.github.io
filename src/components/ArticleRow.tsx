@@ -22,36 +22,31 @@ export default function ArticleRow({ article }: { article: Article }) {
       </div>
 
       {/* Num */}
-      <span
-        className="font-mono text-sm w-6 shrink-0"
-        style={{ color: "var(--fg-3)" }}
-      >
+      <span className="font-mono text-sm w-6 shrink-0" style={{ color: "var(--fg-3)" }}>
         {article.num}
       </span>
 
-      {/* Title */}
-      <span
-        className="flex-1 text-sm font-medium leading-snug group-hover:underline underline-offset-2"
-        style={{ color: "var(--fg)" }}
-      >
-        {article.title}
-      </span>
+      {/* Title + summary */}
+      <div className="flex-1 min-w-0">
+        <span className="text-sm font-medium leading-snug group-hover:underline underline-offset-2 block" style={{ color: "var(--fg)" }}>
+          {article.title}
+        </span>
+        {article.summary && (
+          <span className="text-xs leading-snug mt-0.5 hidden sm:block line-clamp-1" style={{ color: "var(--fg-3)" }}>
+            {article.summary}
+          </span>
+        )}
+      </div>
 
       {/* Meta */}
-      <span
-        className="font-mono text-xs shrink-0 hidden sm:block text-right"
-        style={{ color: "var(--fg-3)" }}
-      >
+      <span className="font-mono text-xs shrink-0 hidden sm:block text-right" style={{ color: "var(--fg-3)" }}>
         {article.venue}
         <br />
         {article.date}
       </span>
 
       {/* Arrow */}
-      <span
-        className="text-base shrink-0 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5"
-        style={{ color: "var(--accent)" }}
-      >
+      <span className="text-base shrink-0 transition-transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5" style={{ color: "var(--accent)" }}>
         ↗
       </span>
     </a>
