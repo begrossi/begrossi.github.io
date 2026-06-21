@@ -31,7 +31,16 @@ export default function LiveClock() {
         className="inline-block w-1.5 h-1.5 rounded-full"
         style={{ backgroundColor: "var(--green)" }}
       />
-      BH · {time}
+      <a
+        href="https://maps.google.com/?q=Belo+Horizonte,MG,Brazil"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="hover:text-[var(--accent)] transition-colors"
+      >
+        BH
+      </a>
+      {" · "}
+      {time}
     </span>
   );
 }
