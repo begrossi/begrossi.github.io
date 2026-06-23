@@ -1,6 +1,7 @@
 import Link from "next/link";
 import LiveClock from "./LiveClock";
 import ThemeToggle from "./ThemeToggle";
+import MobileMenu from "./MobileMenu";
 
 const links = [
   { href: "/about", label: "About" },
@@ -54,6 +55,7 @@ export default function Nav() {
         <div className="flex items-center gap-3">
           <LiveClock />
           <ThemeToggle />
+          <MobileMenu />
         </div>
       </div>
     </nav>
