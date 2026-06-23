@@ -27,7 +27,7 @@ export default function Nav() {
         {/* Brand */}
         <Link href="/" className="flex items-center shrink-0">
           <span className="font-serif-italic text-2xl leading-none" style={{ color: "var(--fg)" }}>
-            BGrossi
+            Bruno Grossi
           </span>
         </Link>
 
