@@ -5,7 +5,6 @@ export type Event = {
   location: string;
   date: string;
   url: string;
-  image: string;
   topic?: string;
 };
 
@@ -17,7 +16,6 @@ export const events: Event[] = [
     location: "Madrid, Spain",
     date: "2024 · Nov",
     url: "https://www.mmerge.io/speaker/bruno-grossi",
-    image: "/events/merge-madrid.jpg",
     topic: "Digital Assets & Tokenization",
   },
   {
@@ -27,7 +25,6 @@ export const events: Event[] = [
     location: "Rio de Janeiro, BR",
     date: "2024 · Sep",
     url: "https://app.4.events/palestrante-bruno-grossi-103-c24755",
-    image: "/events/blockchain-rio.jpg",
     topic: "CBDCs and DREX",
   },
   {
@@ -37,7 +34,6 @@ export const events: Event[] = [
     location: "Hong Kong",
     date: "2024 · Jun",
     url: "https://smartcon.chain.link/speakers",
-    image: "/events/smartcon.jpg",
     topic: "Chainlink & Financial Infrastructure",
   },
   {
@@ -47,7 +43,6 @@ export const events: Event[] = [
     location: "São Paulo, BR",
     date: "2024 · Jun",
     url: "https://febrabantech.com.br",
-    image: "/events/febrabantech.jpg",
     topic: "AI in Financial Services",
   },
   {
@@ -57,7 +52,6 @@ export const events: Event[] = [
     location: "Austin, TX",
     date: "2024 · May",
     url: "https://consensus.coindesk.com",
-    image: "/events/consensus.jpg",
     topic: "The Future of Tokenized Assets",
   },
   {
@@ -67,7 +61,6 @@ export const events: Event[] = [
     location: "Hong Kong",
     date: "2023 · Nov",
     url: "https://www.hkfintech.org",
-    image: "/events/hk-fintech.jpg",
     topic: "CBDCs: Lessons from Emerging Markets",
   },
 ];
