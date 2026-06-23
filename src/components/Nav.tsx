@@ -25,15 +25,9 @@ export default function Nav() {
     >
       <div className="max-w-5xl mx-auto px-6 h-14 flex items-center justify-between gap-4">
         {/* Brand */}
-        <Link href="/" className="flex items-center gap-2.5 shrink-0">
-          <svg width="18" height="18" viewBox="0 0 64 64" fill="none">
-            <rect x="6" y="6" width="24" height="24" fill="var(--fg)" />
-            <rect x="34" y="6" width="24" height="24" stroke="var(--fg)" strokeWidth="2.5" />
-            <rect x="6" y="34" width="24" height="24" stroke="var(--fg)" strokeWidth="2.5" />
-            <rect x="34" y="34" width="24" height="24" fill="var(--accent)" />
-          </svg>
-          <span className="font-medium text-sm" style={{ color: "var(--fg)" }}>
-            Bruno Grossi
+        <Link href="/" className="flex items-center shrink-0">
+          <span className="font-serif-italic text-2xl leading-none" style={{ color: "var(--fg)" }}>
+            BGrossi
           </span>
         </Link>
 
