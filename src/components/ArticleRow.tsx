@@ -1,4 +1,3 @@
-import Image from "next/image";
 import type { Article } from "@/data/articles";
 
 export default function ArticleRow({ article }: { article: Article }) {
@@ -10,15 +9,12 @@ export default function ArticleRow({ article }: { article: Article }) {
       className="group flex items-center gap-4 py-4 border-b transition-colors hover:bg-[var(--bg-2)] -mx-4 px-4 rounded-sm"
       style={{ borderColor: "var(--line)" }}
     >
-      {/* Thumbnail */}
-      <div className="w-14 h-14 shrink-0 rounded-sm overflow-hidden bg-[var(--bg-3)]">
-        <Image
-          src={article.image}
-          alt={article.title}
-          width={56}
-          height={56}
-          className="w-full h-full object-cover"
-        />
+      {/* Thumbnail placeholder */}
+      <div
+        className="w-14 h-14 shrink-0 rounded-sm flex items-center justify-center font-mono text-xs font-medium"
+        style={{ backgroundColor: "var(--accent-light)", color: "var(--accent)" }}
+      >
+        {article.category.slice(0, 2).toUpperCase()}
       </div>
 
       {/* Num */}
