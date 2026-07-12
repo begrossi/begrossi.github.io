@@ -32,14 +32,4 @@ export const articles: Article[] = [
     summary: "Opinion piece on how DREX — Brazil's Digital Real — represents a structural revolution in the national financial system, beyond just a digital currency.",
     featured: true,
   },
-  {
-    num: "03",
-    title: "Blockchain por Bancos é um Caminho Sem Volta",
-    venue: "Exame",
-    date: "2024 · Oct",
-    url: "https://exame.com/future-of-money/blockchain-por-bancos-e-um-caminho-sem-volta-vai-revolucionar-mercado-diz-inter",
-    category: "Digital Assets",
-    summary: "Why blockchain adoption by major financial institutions is irreversible — and what it means for the future of markets, settlement, and financial infrastructure.",
-    featured: true,
-  },
 ];

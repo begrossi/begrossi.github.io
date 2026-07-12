@@ -7,6 +7,14 @@ export type MediaItem = {
 };
 
 export const mediaItems: MediaItem[] = [
+  {
+    date: "2026 · Mar",
+    publication: "BeInCrypto",
+    topic: "Central banks and the private sector shaping digital money in LATAM",
+    url: "https://beincrypto.com/central-banks-private-sector-digital-money-latam/",
+    type: "Feature",
+  },
+
   // DREX × Chainlink — cross-border Brazil–Hong Kong experiment (Nov 2025)
   {
     date: "2025 · Nov",
@@ -140,6 +148,15 @@ export const mediaItems: MediaItem[] = [
     publication: "Binance Square",
     topic: "DREX: Inter, Chainlink e Microsoft — consórcio para a fase 2 do piloto",
     url: "https://www.binance.com/en/square/post/16452713371658",
+    type: "Feature",
+  },
+
+  // Digital Assets — blockchain adoption by banks (Oct 2024)
+  {
+    date: "2024 · Oct",
+    publication: "Exame",
+    topic: "Blockchain por bancos é um caminho sem volta — vai revolucionar o mercado, diz Inter",
+    url: "https://exame.com/future-of-money/blockchain-por-bancos-e-um-caminho-sem-volta-vai-revolucionar-mercado-diz-inter",
     type: "Feature",
   },
 
