@@ -8,6 +8,13 @@ export type MediaItem = {
 
 export const mediaItems: MediaItem[] = [
   {
+    date: "2026 · May",
+    publication: "CryptoID",
+    topic: "ID Talk — Banco Inter debate Bitcoin, computação quântica e o futuro da custódia de ativos digitais",
+    url: "https://cryptoid.com.br/entrevistas/banco-inter-debate-bitcoin-computacao-quantica-e-custodia/",
+    type: "Interview",
+  },
+  {
     date: "2026 · Mar",
     publication: "BeInCrypto",
     topic: "Central banks and the private sector shaping digital money in LATAM",
@@ -45,6 +52,15 @@ export const mediaItems: MediaItem[] = [
     type: "Feature",
   },
 
+  // Podcast — deep-dive interview (Jun 2025)
+  {
+    date: "2025 · Jun",
+    publication: "Paradigma Cast",
+    topic: "#32 — O cara que fez o Banco Inter apostar em cripto",
+    url: "https://open.spotify.com/episode/1Nz5TI26RoVOPWQ6xWKr6c",
+    type: "Podcast",
+  },
+
   // Quantum Computing — Inter × UFMG partnership (Mar 2025)
   {
     date: "2025 · Mar",
@@ -65,6 +81,48 @@ export const mediaItems: MediaItem[] = [
     publication: "NeoFeed",
     topic: "Inter Science: hub de tecnologias emergentes e pesquisa aplicada",
     url: "https://neofeed.com.br/negocios/inter-leva-o-banco-para-o-laboratorio-e-abre-hub-para-tecnologias-emergentes",
+    type: "Feature",
+  },
+  {
+    date: "2025 · Mar",
+    publication: "DataCenterDynamics",
+    topic: "Inter e UFMG anunciam parceria para impulsionar inovação com projetos de computação quântica",
+    url: "https://www.datacenterdynamics.com/br/noticias/inter-e-ufmg-anunciam-parceria-para-impulsionar-inovacao-com-projetos-de-computacao-quantica/",
+    type: "Feature",
+  },
+  {
+    date: "2025 · Mar",
+    publication: "IT Forum",
+    topic: "Inter e UFMG anunciam acordo de inovação em computação quântica",
+    url: "https://itforum.com.br/noticias/inter-ufmg-inovacao-quantica/",
+    type: "Feature",
+  },
+  {
+    date: "2025 · Mar",
+    publication: "MobileTime",
+    topic: "Inter e UFMG avançam em computação quântica com parceria",
+    url: "https://www.mobiletime.com.br/noticias/06/03/2025/inter-ufmg-computacao-quantica/",
+    type: "Feature",
+  },
+  {
+    date: "2025 · Mar",
+    publication: "Decision Report",
+    topic: "UFMG anuncia parceria para impulsionar projetos de computação quântica",
+    url: "https://decisionreport.com.br/ufmg-anuncia-parceria-para-impulsionar-projetos-de-computacao-quantica/",
+    type: "Feature",
+  },
+  {
+    date: "2025 · Mar",
+    publication: "IPNews",
+    topic: "Inter apoia pesquisa em computação quântica na UFMG",
+    url: "https://ipnews.com.br/inter-apoia-pesquisa-em-computacao-quantica-na-ufmg/",
+    type: "Feature",
+  },
+  {
+    date: "2025 · Mar",
+    publication: "Cantarino Brasileiro",
+    topic: "Inter e UFMG firmam parceria para pesquisa em computação quântica",
+    url: "https://cantarinobrasileiro.com.br/inter-e-ufmg-firmam-parceria-para-pesquisa-em-computacao-quantica/",
     type: "Feature",
   },
 
@@ -150,6 +208,55 @@ export const mediaItems: MediaItem[] = [
     url: "https://www.binance.com/en/square/post/16452713371658",
     type: "Feature",
   },
+  {
+    date: "2024 · Nov",
+    publication: "Cointelegraph",
+    topic: "Chainlink, Microsoft, Banco Inter collaborate on Brazil's CBDC pilot phase 2 trade finance",
+    url: "https://cointelegraph.com/news/brazil-drex-cbdc-pilot-phase-2-trade-finance-blockchain",
+    type: "Feature",
+  },
+  {
+    date: "2024 · Nov",
+    publication: "The Fintech Times",
+    topic: "Brazil's Central Bank, Microsoft, Chainlink and 7COMm pilot CBDC trade finance solution",
+    url: "https://thefintechtimes.com/brazil-central-bank-microsoft-chainlink-and-7comm-pilot-cbdc-trade-finance-solution/",
+    type: "Feature",
+  },
+  {
+    date: "2024 · Nov",
+    publication: "TechReport",
+    topic: "Chainlink, Microsoft and Banco Inter build Brazil CBDC, DREX",
+    url: "https://techreport.com/crypto-news/brazil-cbdc/",
+    type: "Feature",
+  },
+  {
+    date: "2024 · Nov",
+    publication: "Global Trade Review",
+    topic: "Brazil expands central bank digital currency pilot to trade finance",
+    url: "https://www.gtreview.com/news/digital-trade/brazil-expands-central-bank-digital-currency-pilot-to-trade-finance/",
+    type: "Feature",
+  },
+  {
+    date: "2024 · Nov",
+    publication: "Financial IT",
+    topic: "Chainlink joins Banco Inter, Microsoft and 7COMm consortium for DREX pilot phase 2",
+    url: "https://financialit.net/news/blockchain/chainlink-joins-banco-inter-microsoft-and-7comm-consortium-support-trade-finance-use",
+    type: "Feature",
+  },
+  {
+    date: "2024 · Nov",
+    publication: "Secured Finance Network",
+    topic: "Chainlink joins Banco Inter, Microsoft and 7COMm consortium for DREX trade finance use case",
+    url: "https://www.sfnet.com/home/industry-data-publications/the-secured-lender/tsl-express-daily-articles-news/tsl-express-daily-articles-news/2024/11/19/chainlink-joins-banco-inter-microsoft-and-7comm-consortium-to-support-trade-finance-use-case-in-phase-2-of-drex-pilot",
+    type: "Feature",
+  },
+  {
+    date: "2024 · Nov",
+    publication: "Cryptonews AU",
+    topic: "Chainlink, Banco Inter and Microsoft sync up to power Brazil's CBDC pilot",
+    url: "https://cryptonews.com.au/news/chainlink-banco-inter-and-microsoft-sync-up-to-power-brazils-cbdc-pilot-124773/",
+    type: "Feature",
+  },
 
   // Digital Assets — blockchain adoption by banks (Oct 2024)
   {
@@ -158,6 +265,13 @@ export const mediaItems: MediaItem[] = [
     topic: "Blockchain por bancos é um caminho sem volta — vai revolucionar o mercado, diz Inter",
     url: "https://exame.com/future-of-money/blockchain-por-bancos-e-um-caminho-sem-volta-vai-revolucionar-mercado-diz-inter",
     type: "Feature",
+  },
+  {
+    date: "2024 · Oct",
+    publication: "Fintrender",
+    topic: "#233 — DREX, DAOs, interoperabilidade, privacidade, AI, computação quântica e RWA",
+    url: "https://open.spotify.com/episode/4IXmZmNEuO6tMfvxhCM0kc",
+    type: "Podcast",
   },
 
   // Videos (YouTube)
@@ -281,6 +395,13 @@ export const mediaItems: MediaItem[] = [
     topic: "DREX será revolucionário como foi a criação do sistema brasileiro de pagamentos",
     url: "https://www.blocknews.com.br/governos/drex-sera-revolucionario-como-foi-criacao-do-sistema-brasileiro-de-pagamentos",
     type: "Quote",
+  },
+  {
+    date: "2023 · Jun",
+    publication: "CriptoFácil",
+    topic: "Banco Inter testará blockchain para negociação de clientes e transações entre bancos",
+    url: "https://www.criptofacil.com/banco-inter-testara-blockchain-para-negociacao-de-clientes-e-transacoes-entre-bancos/",
+    type: "Feature",
   },
 
   // Videos (2023)
